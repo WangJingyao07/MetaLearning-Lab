@@ -1,0 +1,15 @@
+pygments
+pymdown-extensions==8.2
+cython>=0.28.5
+twine
+mkdocs==1.2.3
+mkdocs-bootswatch==1.0
+mkdocs-material==4.6.3
+mkdocstrings==0.18.0
+mkdocstrings-python-legacy==0.2.2
+python-markdown-math==0.6
+pycodestyle>=2.3.1
+bibtexparser==1.2.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
