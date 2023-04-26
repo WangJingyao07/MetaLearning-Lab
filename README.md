@@ -27,3 +27,14 @@ The Datasets (code) and Meta Modules (CODE) of this project need to be supplemen
 The **.rar** and **.zip** files are extracted and packaged directly from the Linux server, and can be decompressed directly in the folder where the files are located.
 
 **!!! Any question or suggestion** please let me know, I am honored to accept everyone's suggestions and opinions, Best wishes.
+
+## Cite
+please cite when you use our platform
+@misc{wang2023awesomemeta,
+      title={Awesome-META+: Meta-Learning Research and Learning Platform}, 
+      author={Jingyao Wang and Chuyuan Zhang and Ye Ding and Yuxuan Yang},
+      year={2023},
+      eprint={2304.12921},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
