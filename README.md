@@ -30,6 +30,7 @@ The **.rar** and **.zip** files are extracted and packaged directly from the Lin
 
 ## Cite
 please cite when you use our platform
+```
 @misc{wang2023awesomemeta,
       title={Awesome-META+: Meta-Learning Research and Learning Platform}, 
       author={Jingyao Wang and Chuyuan Zhang and Ye Ding and Yuxuan Yang},
@@ -38,3 +39,4 @@ please cite when you use our platform
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
