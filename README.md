@@ -30,6 +30,7 @@ The **.rar** and **.zip** files are extracted and packaged directly from the Lin
 
 ## Cite
 please cite when you use our platform
+(This article is only the first draft of the competition, as a reference, which will be updated later.)
 ```
 @misc{wang2023awesomemeta,
       title={Awesome-META+: Meta-Learning Research and Learning Platform}, 
