@@ -3,7 +3,7 @@
 <p align="left">
     <img alt="ViewCount" valign="bottom" src="https://views.whatilearened.today/views/github/WangJingyao07/MetaLearning-Lab.svg">
     <a href='https://github.com/WangJingyao07/github-clone-count-badge'><img alt='GitHub Clones' valign="bottom" src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
-    <img alt="releases" valign="bottom" src="https://img.shields.io/github/downloads/WangJingyao07/MetaLearning-Lab/total"> <code>since Sep 26</code>
+    <code>since Sep 3 2022</code>
 </p>
 
 The code and methods offered in Awesome-META+: https://wangjingyao07.github.io/Awesome-Meta-Learning-Platform/
