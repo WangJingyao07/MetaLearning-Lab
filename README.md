@@ -1,6 +1,6 @@
 <div>
   <div align="right">
-    👆 Click <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/UFund-Me/Qbot.svg?style=social&label=Star"> in the upper right corner to tell me , you want this project to continue to accelerate development iterations ❤️ & ☕️
+    👆 Click <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/WangJingyao07/MetaLearning-Lab.svg?style=social&label=Star"> in the upper right corner to tell me, you want this project to continue to accelerate development iterations ❤️ & ☕️
   </div>
 </div>
  
